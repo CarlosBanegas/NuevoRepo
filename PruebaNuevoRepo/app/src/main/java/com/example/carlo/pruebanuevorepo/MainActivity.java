@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         TextView tv=(TextView)findViewById(R.id.textHola);
-        tv.setText("mucho gusto mi nombre es apk");
+        tv.setText("mucho soy apk");
 
     }
 
