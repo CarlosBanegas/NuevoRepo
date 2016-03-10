@@ -12,4 +12,11 @@
     tools:context="com.example.carlo.pruebanuevorepo.carlos"
     tools:showIn="@layout/carlos">
 
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:id="@+id/imageView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="#ec8585" />
 </RelativeLayout>
